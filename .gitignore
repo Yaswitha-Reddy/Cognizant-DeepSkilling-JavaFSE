@@ -1,1 +1,22 @@
+# Ignore Downloads folder
 Downloads/
+
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
