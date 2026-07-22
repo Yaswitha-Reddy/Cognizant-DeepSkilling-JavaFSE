@@ -20,3 +20,5 @@ Downloads/
 
 # Temporary files
 *.tmp
+
+target/
